@@ -1,28 +1,6 @@
 {
     "tasks": [
-        {
-            "name": "new",
-            "create_date": "2024-02-01 13:55:31.789540",
-            "change_date": "2024-02-01 13:55:31.789540",
-            "status": 2
-        },
-        {
-            "name": "5678",
-            "create_date": "2024-02-01 14:08:42.254449",
-            "change_date": "2024-02-01 14:08:42.254449",
-            "status": 1
-        },
-        {
-            "name": "linal",
-            "create_date": "2024-02-01 14:08:53.312221",
-            "change_date": "2024-02-01 14:08:53.312221",
-            "status": 1
-        }
     ],
     "history": {
-        "2024-02-01 13:55:31.789540": "New task was created: new",
-        "2024-02-01 14:06:52.829235": "Task new: status was changed from new to solving",
-        "2024-02-01 14:08:42.254449": "New task was created: 5678",
-        "2024-02-01 14:08:53.312221": "New task was created: linal"
     }
 }
